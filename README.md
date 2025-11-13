@@ -14,7 +14,7 @@ L’interface est conçue avec Material Design, des RecyclerView, et des CardVie
 🎫 E-Ticket : affichage d’un ticket électronique avec code-barres, détails du passager et conditions.
 
 🎨 Interface moderne et responsive utilisant CardView, LinearLayout, ScrollView et des icônes personnalisées.
-![Aperçu de l’application](WhatsApp Image 2025-11-13 at 10.24.49 PM.jpeg)
+![Aperçu de l’application](https://github.com/AsmaBoulahya/IndoGo/blob/260021af8bd679f15fcbd9a35627e02f2a29fd12/WhatsApp%20Image%202025-11-13%20at%2010.24.49%20PM.jpeg)
 
 🧩 Structure du projet
 1. activity_main.xml
